@@ -15,7 +15,6 @@ sleep 1
 
 # tampilan
 clear
-toilet -f big -F gay SpamCall 
 echo "=============================================" | lolcat
 echo "[•] Author : MR-Xyaa                         "
 echo "[•] FB     : Xyaa Xyaa                         "
