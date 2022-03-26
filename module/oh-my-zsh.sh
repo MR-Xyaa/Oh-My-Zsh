@@ -20,11 +20,7 @@ echo "[•] Author : MR-Xyaa                         "
 echo "[•] FB     : Xyaa Xyaa                         "
 echo "[•] GitHub : github.com/MR-Xyaa              "
 echo "=============================================" | lolcat
-echo
-echo "=> 3x Spam Tunggu 20menit                    "
-echo "=> Jangan Berlebihan                         "
-echo "=> Follow FB dan Github Gw yakk^^            "
-echo
+echo ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 echo "=============================================" | lolcat
 
 bash t-header.sh
